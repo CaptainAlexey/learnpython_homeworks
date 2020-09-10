@@ -1,2 +1,5 @@
-u = "ggg"
-print(type(u)=="str")
+import datetime
+import ephem
+
+
+print("Mars" in ephem )
